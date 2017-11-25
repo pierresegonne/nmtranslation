@@ -102,3 +102,9 @@ ENV/
 
 # OSX
 .DS_Store
+
+# PyCharm
+.idea
+
+# data
+/data
